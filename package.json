@@ -154,5 +154,8 @@
     ],
     "**/*.{ts,js,md,json}": "prettier --write"
   },
-  "packageManager": "yarn@1.22.17"
+  "packageManager": "yarn@1.22.17",
+  "resolutions": {
+    "yarn": "1.22.13"
+  }
 }
